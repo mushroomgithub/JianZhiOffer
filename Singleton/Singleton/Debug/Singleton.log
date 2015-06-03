@@ -1,0 +1,31 @@
+﻿生成启动时间为 2015/5/5 15:00:34。
+     1>项目“F:\mogu\Win32\Singleton\Singleton\Singleton.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在创建“Debug\Singleton.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /I"D:\Program Files\MATLAB\R2010b\extern\include\win32" /I"D:\Program Files\MATLAB\R2010b\extern\include" /AI"D:\Program Files\MATLAB\R2010b\extern\lib\win32\microsoft" /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp singleton.cpp
+         main.cpp
+         正在生成代码...
+         正在编译...
+         singleton.cpp
+         正在生成代码...
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\mogu\Win32\Singleton\Debug\Singleton.exe" /INCREMENTAL /NOLOGO /LIBPATH:"D:\Program Files\MATLAB\R2010b\extern\lib\win32\microsoft" Gdi32.lib user32.lib libeng.lib libmat.lib libmex.lib libmx.lib mclmcrrt.lib mclmcr.lib opencv_calib3d243.lib opencv_contrib243.lib opencv_core243.lib opencv_features2d243.lib opencv_flann243.lib opencv_gpu243.lib opencv_highgui243.lib opencv_imgproc243.lib opencv_legacy243.lib opencv_ml243.lib opencv_nonfree243.lib opencv_objdetect243.lib opencv_photo243.lib opencv_stitching243.lib opencv_ts243.lib opencv_video243.lib opencv_videostab243.lib /MANIFEST /ManifestFile:"Debug\Singleton.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"F:\mogu\Win32\Singleton\Debug\Singleton.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\mogu\Win32\Singleton\Debug\Singleton.lib" /MACHINE:X86 Debug\Singleton.exe.embed.manifest.res
+         Debug\main.obj
+         Debug\singleton.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Singleton.exe.embed.manifest" /manifest Debug\Singleton.exe.intermediate.manifest
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         Singleton.vcxproj -> F:\mogu\Win32\Singleton\Debug\Singleton.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Singleton.unsuccessfulbuild”。
+         正在对“Debug\Singleton.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“F:\mogu\Win32\Singleton\Singleton\Singleton.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.24

@@ -1,0 +1,4 @@
+//content.txt
+
+“并不是每个人都需要$(qunar)自己的粮食，$(flight.1)每个人都需要做自己穿的$(fight.2)，我们说着别人发明的$(hotel)，使用别人发明的数学......我们一直在$(tuan)别人的成果。使用人类的已有经验和知识$(travel.1)来进行，是一件$(travel.2)的事情”?。
+//words.txtflight=也不是：衣服qunar=种植hotel=语言tuan=使用travel=发明创造：很了不起
